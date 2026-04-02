@@ -1,0 +1,20 @@
+Define MVP for task manager
+    - A script that prints CPU percentage 
+    and total megebytes downloaded
+    every 2 secs
+
+what do i need to know - CPU usage in psutil?
+
+how to calculate network speed from total byes.
+
+how to clear terminal screen in python?
+or Rich libary table tutorial
+
+Logicl Flow
+* start a loop
+* get cpu stats
+* get network stats
+* convert bytes to MB
+* print to screen
+* wait for 1 second
+* repeat
