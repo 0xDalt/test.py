@@ -1,0 +1,53 @@
+CPU: 6.7% | switches: 227060155
+CPU: 0.6% | switches: 227066845
+CPU: 0.2% | switches: 227070668
+CPU: 1.0% | switches: 227074588
+CPU: 1.6% | switches: 227088299
+CPU: 1.2% | switches: 227093205
+CPU: 0.6% | switches: 227097106
+CPU: 3.1% | switches: 227109087
+CPU: 0.8% | switches: 227113409
+CPU: 2.7% | switches: 227121584
+CPU: 4.4% | switches: 227138854
+CPU: 3.1% | switches: 227150579
+CPU: 5.1% | switches: 227161904
+CPU: 20.6% | switches: 231312960
+CPU: 3.9% | switches: 231320749
+CPU: 1.6% | switches: 231324917
+CPU: 6.9% | switches: 231332191
+CPU: 7.6% | switches: 231346398
+CPU: 3.5% | switches: 231356349
+CPU: 1.4% | switches: 231360074
+CPU: 7.3% | switches: 231375122
+CPU: 2.3% | switches: 231381506
+CPU: 9.3% | switches: 231864454
+CPU: 7.2% | switches: 231876606
+CPU: 1.2% | switches: 231881906
+CPU: 0.8% | switches: 231887138
+CPU: 4.7% | switches: 231899837
+CPU: 4.9% | switches: 231911865
+CPU: 0.6% | switches: 231918804
+CPU: 12.5% | Net: 59.47 MB | Switches:233.08M Calls:770.3CPU: 4.3% | Net: 59.5 MB | Switches:233.09M Calls:770.38CPU: 4.3% | Net: 59.5 MB | Switches:233.1M Calls:770.41CPU: 6.4% | Net: 59.5 MB | Switches:233.13M Calls:770.49CPU: 15.2% | Net: 59.5 MB | Switches:233.16M Calls:770.61CPU: 13.9% | Net: 60.15 MB |
+CPU: 0.2% | Net: 60.17 MB |
+CPU: 0.6% | Net: 60.17 MB |
+CPU: 5.4% | Net: 60.17 MB |
+CPU: 1.0% | Net: 60.18 MB |
+CPU: 0.4% | Net: 60.18 MB |
+CPU: 1.2% | Net: 60.18 MB |
+CPU: 5.0% | Net: 60.18 MB |
+CPU: 1.2% | Net: 60.19 MB |
+CPU: 1.6% | Net: 60.19 MB |
+CPU: 9.0% | Net: 60.27 MB | Switches:235.88M Calls:778.18
+CPU: 5.1% | Net: 60.29 MB | Switches:235.9M Calls:778.27
+CPU: 4.7% | Net: 60.29 MB | Switches:235.91M Calls:778.3
+CPU: 7.8% | Net: 60.3 MB | Switches:235.92M Calls:778.36
+CPU: 3.9% | Net: 60.3 MB | Switches:235.94M Calls:778.47
+15:28:24 CPU: 12.3% | Net: 62.96 MB | Switches:242.61M Calls:795.52
+15:28:26 CPU: 1.0% | Net: 62.96 MB | Switches:242.62M Calls:795.54
+15:28:28 CPU: 6.0% | Net: 62.96 MB | Switches:242.64M Calls:795.57
+2026-04-02 15:30:29 CPU: 13.0% | Net: 63.34 MB | Switches:243.33M Calls:797.29
+2026-04-02 15:30:30 CPU: 14.0% | Net: 63.36 MB | Switches:243.35M Calls:797.37
+2026-04-03 10:52:24 CPU: 18.9% | Net: 10.44 MB | Switches:13.97M Calls:70.18
+2026-04-03 10:52:26 CPU: 51.4% | Net: 10.44 MB | Switches:14.03M Calls:70.36
+2026-04-03 10:52:28 CPU: 14.5% | Net: 10.45 MB | Switches:14.11M Calls:70.46
+2026-04-03 10:52:29 CPU: 16.7% | Net: 10.45 MB | Switches:14.13M Calls:70.54
